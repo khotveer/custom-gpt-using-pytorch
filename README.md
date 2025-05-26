@@ -10,7 +10,7 @@ This repository provides a **minimal and educational implementation** of a GPT-s
 ## Related Article
 
 **Read the full tutorial article here:**  
-[Understanding GPT by Training One from Scratch using PyTorch](https://your-blog-link.com)
+[Understanding GPT by Training One from Scratch using PyTorch](https://medium.com/@khotveer1/llm-fundamentals-training-gpt-from-scratch-with-pytorch-ad1425a0ae05)
 
 ---
 
@@ -89,4 +89,4 @@ Run 02_inference_generate_text.ipynb to generate predictions.
 ```
 ## 🔗 Resources
 - [Model on Hugging Face](https://huggingface.co/khotveer1/custom-gpt-pytorch-shakespeare)
-- [Detailed Walkthrough (Article)](https://medium.com/p/ad1425a0ae05/edit)
+- [Detailed Walkthrough (Article)](https://medium.com/@khotveer1/llm-fundamentals-training-gpt-from-scratch-with-pytorch-ad1425a0ae05)
