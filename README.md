@@ -34,7 +34,7 @@ Below is the loss trend of the model during training over multiple epochs.
 
 ## Quickstart
 
-###1. Load Pretrained Model from Hugging Face
+**1. Load Pretrained Model from Hugging Face**
 
 To download the trained model (`.pth`) and tokenizer (`.pkl`) from Hugging Face and place them inside `./saved_models`, run:
 
